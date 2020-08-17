@@ -5,4 +5,20 @@
     <string name="android_logo_image">Android Logo Image</string>
     <string name="previous_button">Previous Button</string>
     <string name="next_button">Next Button</string>
+
+
+    <!--questions-->
+    <string name="question_1">Can we reduce the visibility of the overridden method ?</string>
+    <string name="question_2">Can we call constructor explicitly ?</string>
+    <string name="question_3">Does Java provides default copy constructor ?</string>
+    <string name="question_4">Can we override static methods ?</string>
+    <string name="question_5">Can we reduce the visibility of the inherited or overridden method ?</string>
+    <string name="question_6">Can we have try and catch blocks within finally ?</string>
+    <string name="question_7">Can value be null in TreeMap ?</string>
+    <string name="android_logo">Android Logo</string>
+
+    <!--true false-->
+    <string name="correct_answer">Correct Answer</string>
+    <string name="wrong_answer">Wrong Answer</string>
+
 </resources>
