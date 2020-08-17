@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalChallengeDay1-Project2-QuizApp-MVCArchitecture</string>
+    <string name="textFalse">False</string>
+    <string name="textTrue">True</string>
+    <string name="android_logo_image">Android Logo Image</string>
+    <string name="previous_button">Previous Button</string>
+    <string name="next_button">Next Button</string>
+</resources>
